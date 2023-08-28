@@ -51,3 +51,29 @@
     height: 695px;
 }
 /* heading section design ends */
+
+/* flower section design start */
+main{
+    margin: auto;
+}
+.flower-container{
+    margin-top: 80px;
+}
+.about-feature{
+    text-align: center;
+    padding: 10px;
+}
+.feature-deatils{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.feature-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 5px;
+}
