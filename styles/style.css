@@ -77,3 +77,49 @@ main{
     line-height: 30px;
     margin: 5px;
 }
+.flower-box-container{
+    width: 100vw;
+    height: 75vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.flower-box{
+    position: relative;
+    width: 364px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(167, 33, 98, 0.15);
+}
+.second-flower{
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(5, 151, 160, 0.15);
+}
+.third-flower{
+    border-radius: 300px 300px 0px 0px;
+    background-color: rgba(71, 125, 17, 0.15);
+}
+.text-anchor{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.text-anchor a{
+    display: block;
+    color: #272727;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+}
+.flower-img{
+    
+}
+.flower-img img{
+    width: 300px;
+    height: 418px;
+    position: absolute;
+    right: 35px;
+    bottom: 0px;
+    
+}
