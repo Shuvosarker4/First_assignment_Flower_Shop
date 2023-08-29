@@ -273,7 +273,7 @@ footer{
     height: 30vh;
     /* background-color: aquamarine; */
     margin: auto;
-    margin-bottom: 40px;
+    /* margin-bottom: 0px; */
     margin-top: 40px;
     background-image: url("/bonus-bg.jpg");
     background-position: center;
@@ -289,3 +289,53 @@ footer{
     font-weight: 700;
     margin-bottom: 10px;
 }
+.buy-form{
+    width: 94vw;
+    height: 30vh;
+    /* background-color: aquamarine; */
+    margin: auto;
+    border: 3px solid rgba(71, 125, 17, 0.15);
+}
+.buy-description{
+    padding: 35px 0px 0px 135px;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 30px;
+}
+.buy-container{
+    text-align: center;
+}
+.buy-container input{
+    margin-top: 35px;
+    padding: 20px;
+    border: 0;
+    border-radius: 8px;
+    background-color: hwb(0 86% 12%);
+    margin-right: 30px;
+    /* font-size: 25px; */
+}
+.option-group{
+    padding: 20px;
+    border: 0;
+    border-radius: 8px;
+    background-color: hwb(0 86% 12%);
+    margin-right: 30px;
+}
+.viewflower{
+    background-color: #272727;
+}
+.option-group{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.option-group option{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+/* bonus part complete */
