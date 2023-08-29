@@ -199,3 +199,35 @@ main{
     background: #FFF;
     border: 0;
 }
+/* footer section design starts */
+footer{
+    width: 100vw;
+    height: 35vh;
+    background-color: #111010;
+    text-align: center;
+    /* margin: auto; */
+    padding-top: 100px;
+}
+.footer-container{
+    /* text-align: center; */
+}
+.footer-title{
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+}
+.footer-para{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 25px 0px;
+}
+.copy-right{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
