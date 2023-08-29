@@ -15,6 +15,7 @@
     color: #fff;
     font-size: 18px;
     font-weight: 700;
+    cursor: pointer;
 }
 .text-color{
     color: #E55473;
@@ -164,4 +165,37 @@ main{
 .instagram-pic{
     width: 300px;
     height: 354px;
+}
+
+/* latest container design */
+.latest-container{
+    width: 75vw;
+    height: 45vh;
+    margin: auto;
+    margin-bottom: 70px;
+    text-align: center;
+    background-image: url("../Rectangle9.png");
+}
+.latest-text-container{
+   padding: 90px;
+}
+.latest-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.latest-para{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 20px 0px;
+}
+.input-form{
+    padding:18px 150px ;
+    border-radius: 8px;
+    background: #FFF;
+    border: 0;
 }
